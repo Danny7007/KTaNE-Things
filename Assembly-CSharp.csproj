@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\Behaviour.cs" />
      <Compile Include="Assets\Converters\Braille.cs" />
+     <Compile Include="Assets\Converters\Ciphers.cs" />
      <Compile Include="Assets\Converters\Morse Code.cs" />
      <Compile Include="Assets\HelperScripts\GeneralExtensions.cs" />
      <Compile Include="Assets\HelperScripts\Ut.cs" />
